@@ -1,2 +1,2 @@
 # sudoku
- the script of Sudoku automatically fills in the numbers.
+ numpy解答数独，可解决困难难度以下（包含）的数独，纯推测无猜测。执行脚本会输出推测过程。
